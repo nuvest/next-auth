@@ -1,9 +1,9 @@
 {
-  "name": "next-auth",
-  "version": "0.0.0-semantically-released",
+  "name": "@nuvest/next-auth",
+  "version": "3.2.0-nuvest",
   "description": "Authentication for Next.js",
   "homepage": "https://next-auth.js.org",
-  "repository": "https://github.com/nextauthjs/next-auth.git",
+  "repository": "https://github.com/nuvest/next-auth.git",
   "author": "Iain Collins <me@iaincollins.com>",
   "main": "index.js",
   "scripts": {
@@ -111,8 +111,8 @@
   },
   "funding": [
     {
-      "type" : "github",
-      "url" : "https://github.com/sponsors/balazsorban44"
+      "type": "github",
+      "url": "https://github.com/sponsors/balazsorban44"
     }
   ]
 }
